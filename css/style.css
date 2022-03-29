@@ -440,7 +440,7 @@ input[type="radio"].visually-hidden {
 .instagram-item {
   width: 200px;
   height: 200px;
-  border: 2px solid #eeeeee;
+  border: 1px solid #eeeeee;
   box-sizing: border-box;
   transition: all 0.5s ease 0s;
   border-radius: 20%;
