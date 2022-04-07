@@ -355,10 +355,13 @@ input[type="radio"].visually-hidden {
 }
 
 .work-list {
+  display: flex;
+}
+
+.work-column {
   margin: 0;
   padding: 0;
   list-style: none;
-  display: flex;
 }
 
 .work-column:first-child {
